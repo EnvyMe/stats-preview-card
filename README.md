@@ -28,10 +28,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/EnvyMe/stats-preview-card)
+- [Live Site URL](https://envyme.github.io/stats-preview-card/)
 
 ## My process
+
+Nothing special, basic css + bootstrap 5 grid system.
 
 ### Built with
 
